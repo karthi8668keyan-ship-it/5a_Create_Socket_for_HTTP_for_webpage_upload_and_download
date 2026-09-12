@@ -100,7 +100,8 @@ s.close()
 
 
 
-<img width="1028" height="285" alt="image" src="https://github.com/user-attachments/assets/7a31127e-31b6-4220-aded-6194463c5d70" />
+<img width="866" height="276" alt="image" src="https://github.com/user-attachments/assets/02826338-e996-4d13-a81c-17a13b126520" />
+
 
 
 
