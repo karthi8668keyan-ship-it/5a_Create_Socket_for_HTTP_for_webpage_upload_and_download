@@ -107,7 +107,7 @@ s.close()
 
 ## ````server.py````
 
-<img width="1002" height="92" alt="image" src="https://github.com/user-attachments/assets/0d7cb133-9061-4d63-950c-f68554b298a4" />
+<img width="872" height="99" alt="image" src="https://github.com/user-attachments/assets/b1169922-cf63-464a-b2bb-b741bc1b95aa" />
 
 
 ## Result
